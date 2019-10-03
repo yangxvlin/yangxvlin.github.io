@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "XuLin Yang"
   avatar           : "photo.jpg"
-  bio              : "Student at University of Melbourne \n|Software engineer \n|Data science \n|Computer Scientist"
+  bio              : "Student at University of Melbourne"
   location         : "Melbourne, Au/Shanghai, CN"
-  employer         : ""
+  employer         : # ""
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=xulin+yang"
   googlescholar    : 
   email            : "xuliny@gmail.com"
