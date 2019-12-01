@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-# Biography
+## Biography
 I obtained my Bachelor of Science in Computing and Software System from the University of Melbourne in 2020. I am interested in distributed system, cloud computing, artificial intelligence. Current goal: take a master degree and make cool stuffs in computing.
 
-# Contact
+## Contact
+### Wechat
+<img src="../images/wechat.jpg"  width="20%" height="20%">
