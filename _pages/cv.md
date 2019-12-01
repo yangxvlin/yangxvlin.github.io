@@ -11,13 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computing and Software System, The University of Melbourne, 2017-2020
-* M.S. in :)
-* Ph.D in :)
+* B.S. in [Computing and Software System](https://handbook.unimelb.edu.au/2017/components/b-sci-major-1), The University of Melbourne, 2017-2020
+* M.S. in [Computer Science](https://handbook.unimelb.edu.au/2020/courses/mc-cs), The University of Melbourne, 2020-2022
+<!-- * Ph.D in :) -->
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* July 2019: Front-End Internship
+  * Xi-an Hand Company
+  * Duties included: 
+    * Learn html css javascript
+    * Understand framework like React.js
+    * develop basic web page component
+<!-- * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
@@ -25,35 +31,48 @@ Work experience
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Hub -->
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming languages:
+  * c
+  * java
+  * python
+  * haskell
+  * prolog
+  * R
+  * matlab
+  * mysql
+* Software developing:
+  * object-oriented
+  * agile
+* Text editing:
+  * microsoft word/ppt/excel
+  * LaTex
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  N/A
+  <!-- <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  N/A
+  <!-- <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  N/A
+  <!-- <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+  N/A
+<!-- * Currently signed in to 43 different slack teams -->
