@@ -22,7 +22,7 @@ Work experience
   * Duties included: 
     * Learn html css javascript
     * Understand framework like React.js
-    * develop basic web page component
+    * Develop basic web page component
   
 Skills
 ======
