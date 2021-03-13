@@ -8,9 +8,11 @@ date: 2021-03-01
 location: "Melbourne, Australia"
 ---
 
-# link
-The link for the workshop materials: https://github.com/yangxvlin/SWEN20003-2021S1-Workshop
+link
+=====
+The [link](https://github.com/yangxvlin/SWEN20003-2021S1-Workshop) for the workshop materials: https://github.com/yangxvlin/SWEN20003-2021S1-Workshop
 
-# Responsibility
+Responsibility
+=====
 1. Deliver 2h workshop contents to students
 2. Marking student's project

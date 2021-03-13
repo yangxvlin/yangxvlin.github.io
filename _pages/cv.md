@@ -23,7 +23,7 @@ Work experience
     * Learn html css javascript
     * Understand framework like React.js
     * Develop basic web page component
-* March 2021: Subject Tutor
+* March 2021: Subject - SWEN20003 Object Oriented Software Programming - Tutor
   * The University of Melbourne
   * Duties included: 
     * Deliver 2h workshop contents to students
