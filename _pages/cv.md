@@ -23,7 +23,13 @@ Work experience
     * Learn html css javascript
     * Understand framework like React.js
     * Develop basic web page component
-  
+* March 2021: Subject Tutor
+  * The University of Melbourne
+  * Duties included: 
+    * Deliver 2h workshop contents to students
+    * Marking student's project
+    * The [link](https://github.com/yangxvlin/SWEN20003-2021S1-Workshop) for the workshop materials
+
 Skills
 ======
 * Programming languages:
