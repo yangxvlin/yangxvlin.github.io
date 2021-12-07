@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Biography
-I obtained my Bachelor of Science in Computing and Software System from the University of Melbourne in 2020. I am interested in distributed system, cloud computing, artificial intelligence. Current goal: take a master degree and make cool stuffs in computing.
+I obtained my Bachelor of Science in Computing and Software System from the University of Melbourne in 2019 Dec as well as my Master of IT from the University of Melbourne in 2021 Dec. I am interested in distributed system, cloud computing, artificial intelligence. Current goal: do my job well.
 
 ## Contact
 ### Wechat
