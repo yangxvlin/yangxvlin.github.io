@@ -1,5 +1,5 @@
 ---
-title: 'Hingkong bank card apply'
+title: 'Hongkong bank card apply'
 date: 2023-12-07
 permalink: /posts/2023/12/hk-bank-card/
 tags:
