@@ -5,6 +5,8 @@ permalink: /posts/2023/12/hk-bank-card/
 tags:
   - hongkong
 ---
+# Abstract
+My summary and notes on opening a HongKong bank account.
 
 # 材料
 1. 港澳通行证
@@ -21,6 +23,7 @@ tags:
     - 我用的英文版本
 6. 提前预约银行开户服务
     - [预约网址](https://www.bochk.com/sc/contact/online/hkpaccountopen.html)
+    - 预约邮件手机里打开给工作人员看就可以开始了 全程普通话
 7. 开户/卡目的? 
     - 投资理财 买美股 一定要银行和证券账户。
 8. 预计理财计划?
@@ -34,5 +37,4 @@ tags:
 # 银行
 我去的是 中银香港 葵青区 葵涌道分行
 - 新界葵涌道1009号
-
-![中银香港葵涌道分行](../images/boc-hk-photo.jpg)
+- <img src="https://yangxvlin.github.io/images/boc-hk-photo.jpg" width="50%"/>
